@@ -1,0 +1,12 @@
+astropy
+beautifulsoup4
+cftime
+fonttools
+icecream
+matplotlib
+netCDF4
+numpy
+requests
+scipy
+sunpy
+tqdm

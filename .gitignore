@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# MacOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug
+*.log
+
+# Data folders
+data/raw/
+data/processed/
+
+# Output files
+*.png
+*.pdf
+*.svg
+
+# Secret config files (if any)
+*.env
